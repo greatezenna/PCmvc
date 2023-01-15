@@ -1,2 +1,3 @@
 # PCmvc mini Framework for PHP
-## This is intended for test purposes only..
+
+**NOTE:** This is a PHP framework; intended for test and for tutorial purposes only don't use in *PRODUCTION!!!!*
